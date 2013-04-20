@@ -4,6 +4,6 @@ public class GitTest
 {
   public static void main(String[] args) 
   {
-    System.out.println("Git is not very cool");
+    System.out.println("Git is not very cool Up Your Hung Quach");
   }
 } 
